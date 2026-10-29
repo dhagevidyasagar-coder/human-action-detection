@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Kaggle credentials & local cache
+.kaggle/
+kaggle.json
+/tmp/
+.cache/
+
+# User uploads & downloaded datasets
+uploads/
+data/
+
+# OS & IDE
+.DS_Store
+.idea/
+.vscode/
